@@ -1,1 +1,1 @@
-# uscots_2025_ds_technology
+# Scaffolded Learning in Data Science Through Assessment and Practice
